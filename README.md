@@ -29,9 +29,6 @@
 <a href="https://www.instagram.com">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
-<a href="https://github.com/KhunKyawTunwin">
-    ![GitHub:mrKhunCode ](https://img.shields.io/github/followers)
-</a>
 
 &emsp;
 
