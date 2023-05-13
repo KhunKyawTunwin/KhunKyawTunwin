@@ -54,9 +54,9 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
 ### Frontend development:
+
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -81,6 +81,7 @@
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 
