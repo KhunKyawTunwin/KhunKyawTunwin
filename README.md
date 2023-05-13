@@ -79,7 +79,6 @@
 
 ### Services & Frameworks: 
 &emsp;
-
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
 ### Databases:
