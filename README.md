@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm KhunKyaw TunWin</h1>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 &emsp;
 <h3 align="left">Hello, I'm Khun Kyaw Tun Win, a passionate full stack web developer with a strong background in creating dynamic and user-friendly websites. I strive to combine my technical expertise with my creative problem-solving skills to deliver high-quality and efficient web solutions.</h3>
 &emsp;
-
-
-//<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
 -------------------
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br/>
-
 -------------------
 &emsp;
 
