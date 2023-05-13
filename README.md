@@ -24,7 +24,7 @@
     ![Linkedin:](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com">
-    ![Twitter: khunkyawtunwin]
+    ![Twitter: khunkyawtunwin](https://twitter.com/)
 </a>
 
 &emsp;
