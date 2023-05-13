@@ -59,7 +59,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 
-![Node Js](https://img.shields.io/badge/-PineScript-000?&logo=Node js)
+![Node Js](https://img.shields.io/badge/-Nodejs-000?&logo=Nodejs)
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
