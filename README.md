@@ -21,10 +21,11 @@
 
 &emsp;
 <a href="https://www.linkedin.com">
-    ![Linkedin:](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/khunkyawtunwin) 
+
 </a>
 <a href="https://twitter.com">
-    ![Twitter: khunkyawtunwin](https://twitter.com/)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/khunkyawtunwin)  
 </a>
 
 &emsp;
