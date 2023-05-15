@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KhunKyaw TunWin</h1>
 
-![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
+![Header](https://github.com/khunkyawtunwin/raw/master/)
 
 ![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)
 
