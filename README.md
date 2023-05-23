@@ -19,10 +19,6 @@
 ## Me around the web:
 -------------------
 
-&emsp;
-<a href="https://www.linkedin.com">
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/khunkyawtunwin) 
-
 </a>
 <a href="https://www.twitter.com">
     ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/khunkyawtunwin))
