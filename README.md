@@ -3,16 +3,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 &emsp;
-<h3 align="left">Hello, I'm Khun Kyaw Tun Win, a passionate full stack web developer with a strong background in creating dynamic and user-friendly websites. I strive to combine my technical expertise with my creative problem-solving skills to deliver high-quality and efficient web solutions.</h3>
+<h3 align="left">Hello, I'm Khun Kyaw Tun Win, a passionate full-stack web developer with a strong background in creating dynamic and user-friendly websites. I strive to combine my technical expertise with my creative problem-solving skills to deliver high-quality and efficient web solutions.</h3>
 &emsp;
 
 
 - 🔭 I’m currently working on [itVisionHub](https://myanfobase.com) with a strong background Full Stack Web Developer. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
 
 &emsp;
 
