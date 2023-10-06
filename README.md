@@ -253,13 +253,6 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/KhunKyawTunwin/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ------
 Credit: [KhunKyawTunwin](https://github.com/KhunKyawTunwin)
 
