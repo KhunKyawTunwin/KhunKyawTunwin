@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **JS FRAMEWORK**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 I’m looking for help with **Backend**
 
 - 👨‍💻 All of my projects are available [@KhunKyawTunwin](https://github.com/KhunKyawTunwin?tab=repositories)
 
