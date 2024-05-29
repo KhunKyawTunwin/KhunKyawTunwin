@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as a Full Sactk Developer with **MERN** stack<img align="right" style="width:12rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝  I am passionate about problem-solving and mentoring.
 
 - 👨‍💻 All of my projects are available [@KhunKyawTunwin](https://github.com/KhunKyawTunwin?tab=repositories)
 
