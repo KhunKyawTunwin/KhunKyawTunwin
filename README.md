@@ -3,13 +3,11 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Khun Kyaw Tun Win <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hello Everyone, My name is Khun Kyaw Tun Win <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <!-- <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3> -->
 
-
-
-- 🌱 I’m currently working with **MERN** stack<img align="right" style="width:12rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently working as a Full Sactk Developer with **MERN** stack<img align="right" style="width:12rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 🤝 I’m looking for help with **Backend**
 
